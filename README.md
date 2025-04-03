@@ -7,7 +7,7 @@ Eagle Eye is a smart attendance monitoring system designed for employees and stu
 - 📸 **Facial Recognition**: Uses OpenCV and face_recognition to detect and verify faces.
 - 🔍 **Real-time Detection**: Captures live video feed for attendance marking.
 - 📏 **Facial Feature Measurement**: Analyzes the distances between key facial landmarks and stores them in an array for identification.
-- 💾 **Database Management**: Stores and retrieves attendance records efficiently.
+- 💾 **Database Management**: Stores and retrieves attendance records efficiently using MySQL.
 - 📊 **Attendance Reports**: Generates detailed reports for analysis.
 - 🎨 **User-friendly Interface**: Developed using Tkinter for easy navigation.
 - 🔐 **Secure & Reliable**: Ensures accurate attendance tracking with minimal errors.
@@ -18,6 +18,7 @@ Eagle Eye is a smart attendance monitoring system designed for employees and stu
 - **dlib** 📌
 - **face_recognition** 🏷️
 - **Tkinter** 🖥️
+- **MySQL** 🗄️
 
 ## 📷 How It Works
 1. **Capture Faces**: The system captures images of individuals and registers them.
