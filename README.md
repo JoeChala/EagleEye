@@ -28,10 +28,10 @@ Eagle Eye is a smart attendance monitoring system designed for employees and stu
 5. **Generate Reports**: Users can view and export attendance logs.
 
 ## 📦 Installation
-1. Clone the repository:
-   git clone https://github.com/JoeChala/EagleEye.git
-   cd Eagle-Ey
-2. Install dependencies:
-   pip install opencv-python dlib face_recognition tkinter
-3. Run the application:
-   python login.py
+### 1. Clone the repository:
+   #### git clone https://github.com/JoeChala/EagleEye.git
+   #### cd Eagle-Ey
+### 2. Install dependencies:
+   #### pip install opencv-python dlib face_recognition tkinter
+### 3. Run the application:
+   #### python login.py
