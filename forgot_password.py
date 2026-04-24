@@ -3,7 +3,7 @@ from customtkinter import *
 from PIL import Image, ImageTk
 from tkinter import messagebox
 import mysql.connector as ms
-from secret_questions_1 import secret_questions
+from secret_questions import secret_questions
 
 
 con = ms.connect(host = "localhost",user = "root",password="root",database="passworddb")

@@ -6,7 +6,7 @@ import os.path
 from customtkinter import*
 from tkinter import *
 from tkinter import ttk
-from capture_samples_1 import capture_photos
+from capture_samples import capture_photos
 import PIL
 from PIL import Image, ImageTk
 from os import path

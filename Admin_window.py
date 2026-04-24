@@ -9,7 +9,7 @@ from update_id import Update_id
 from delete_id import Delete_id
 from train_data import train_face, displaymsg
 from facRecWeb import webCamRecog, outputScreen
-from sample_shots_1 import capture_photos, displayScreen
+from sample_shots import capture_photos, displayScreen
 
 class AdminWindow:
     def __init__(self, root):

@@ -1,5 +1,5 @@
 from customtkinter import*
-from forgot_password_1 import forgot_pass
+from forgot_password import forgot_pass
 root=CTk()
 root.geometry("500x500")
 #set_appearance_mode("system")

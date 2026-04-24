@@ -8,7 +8,7 @@ from tkinter import messagebox
 #from cv2 import sepFilter2D
 from Admin_window import AdminWindow
 from facRecWeb import webCamRecog ,outputScreen
-from forgot_password_1 import forgot_pass
+from forgot_password import forgot_pass
 
 import mysql.connector as ms
 con = ms.connect(host = "localhost",user = "root",password="root",database="passworddb")

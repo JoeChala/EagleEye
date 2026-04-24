@@ -1,33 +1,33 @@
 # Eagle Eye - Attendance Monitoring System
 
-## 📌 Overview
+## Overview
 Eagle Eye is a smart attendance monitoring system designed for employees and students. It leverages facial recognition technology to ensure accurate and efficient attendance tracking. The system is built using Python and integrates advanced libraries like OpenCV, dlib, and face_recognition for facial detection and recognition. The GUI is developed using Tkinter, providing a user-friendly interface.
 
-## 🚀 Features
-- 📸 **Facial Recognition**: Uses OpenCV and face_recognition to detect and verify faces.
-- 🔍 **Real-time Detection**: Captures live video feed for attendance marking.
-- 📏 **Facial Feature Measurement**: Analyzes the distances between key facial landmarks and stores them in an array for identification.
-- 💾 **Database Management**: Stores and retrieves attendance records efficiently using MySQL.
-- 📊 **Attendance Reports**: Generates detailed reports for analysis.
-- 🎨 **User-friendly Interface**: Developed using Tkinter for easy navigation.
-- 🔐 **Secure & Reliable**: Ensures accurate attendance tracking with minimal errors.
+## Features
+- **Facial Recognition**: Uses OpenCV and face_recognition to detect and verify faces.
+- **Real-time Detection**: Captures live video feed for attendance marking.
+- **Facial Feature Measurement**: Analyzes the distances between key facial landmarks and stores them in an array for identification.
+- **Database Management**: Stores and retrieves attendance records efficiently using MySQL.
+- **Attendance Reports**: Generates detailed reports for analysis.
+- **User-friendly Interface**: Developed using Tkinter for easy navigation.
+- **Secure & Reliable**: Ensures accurate attendance tracking with minimal errors.
 
 ## 🛠️ Tech Stack
-- **Python** 🐍
-- **OpenCV** 👀
-- **dlib** 📌
-- **face_recognition** 🏷️
-- **Tkinter** 🖥️
-- **MySQL** 🗄️
+- **Python** 
+- **OpenCV** 
+- **dlib** 
+- **face_recognition** 
+- **Tkinter**
+- **MySQL**
 
-## 📷 How It Works
+## How It Works
 1. **Capture Faces**: The system captures images of individuals and registers them.
 2. **Extract Facial Features**: It measures distances between key facial landmarks (e.g., eyes, nose, mouth) and stores them as a numerical array.
 3. **Recognize Faces**: During attendance, it detects faces in real-time and matches them with stored feature data.
 4. **Mark Attendance**: If a match is found, attendance is recorded automatically.
 5. **Generate Reports**: Users can view and export attendance logs.
 
-## 📦 Installation
+## Installation
 ### 1. Clone the repository:
    #### git clone https://github.com/JoeChala/EagleEye.git
    #### cd Eagle-Ey
