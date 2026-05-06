@@ -35,3 +35,10 @@ Eagle Eye is a smart attendance monitoring system designed for employees and stu
    #### pip install opencv-python dlib face_recognition tkinter
 ### 3. Run the application:
    #### python login.py
+
+# Legacy Version (2022)
+
+This repository contains the original implementation of Eagle Eye using dlib, OpenCV, and Tkinter.
+
+The modern refactored platform is available here:
+[https://github.com/JoeChala/EagleEye-next]
